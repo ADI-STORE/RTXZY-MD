@@ -7,29 +7,29 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['601127833767']  // isi jika perlu
+global.owner = ['6282398074198']  // isi jika perlu
 global.mods = ['6282xxxxxx']   // isi jika perlu
-global.prems = ['62895327934887']  // isi jika perlu
+global.prems = ['6282398074198']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = '⫹⫺ Cadbury Ensem' // isi nama kalian bebas
-global.numberowner = '601127833767' // isi nomor kalian dengan awalan seperti di contoh 
+global.nameowner = '⫹⫺ ADI-OWNER' // isi nama kalian bebas
+global.numberowner = '6287841959988' // isi nomor kalian dengan awalan seperti di contoh 
 global.dana = '-' // isi dengan nomor dana yg kamu punya 
 global.pulsa = '-' // isi dengan nomor pulsa hp kalian
 global.gopay = '-'
 
 //Name Bot & Grouplink//
-global.namebot = 'R-txzyMd'
+global.namebot = 'BOTZ-RENATA'
 global.gc = 'https://chat.whatsapp.com/GU6aanJJuz3ARqH1LeFY9W'
 global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '© RENATA-MD'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺ RENATA-MD'
+global.wm3 = '© RENATA-MD'
 global.wm4 = '© 2021/2022'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Bot WhatsApp\nR-TXZY-MD'
-global.author = 'By KrizynOfc'
+global.author = 'By ADIOFC'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
